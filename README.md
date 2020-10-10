@@ -8,9 +8,9 @@
 >
 >./shape_predictor_68_face_landmarks.dat/shape_predictor_68_face_landmarks.dat
 
-## Detect landmark
+## Detect landmarks
 
-> Detect 68 landmark from picture using 0_face_landmark_detection.py
+> Detect 68 landmarks from picture using 0_face_landmark_detection.py
 >
 > Result_files:
 >
